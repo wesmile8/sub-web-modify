@@ -359,6 +359,16 @@ export default {
         ],
         remoteConfig: [
           {
+            label: "YZY规则",
+            options: [
+              {
+                label: "YzyRK和CCHK的IP优选规则",
+                value: "https://raw.githubusercontent.com/wesmile8/clash/refs/heads/main/YzyCustom.ini"
+              },
+            ]
+          },
+          
+          {
             label: "CM规则",
             options: [
               {
