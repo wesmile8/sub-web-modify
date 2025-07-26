@@ -338,7 +338,7 @@ export default {
           "suo.yt": "https://suo.yt/short",
         },
         customBackend: {
-          "Wesmile8自用专属后端": "http://45.207.222.128:15051",// 为您的后端取名
+          "Wesmile8自用专属后端": "https://hk-subconverter.554994.xyz",// 为您的后端取名
           "Wesmile8的clawcloud后端": "https://subapi.554994.xyz",// 为您的后端取名
           "CM负载均衡后端【vless reality+hy1+hy2】": "https://subapi.cmliussss.net",
           "CM应急备用后端【vless reality+hy1+hy2】": "https://subapi.fxxk.dedyn.io",
